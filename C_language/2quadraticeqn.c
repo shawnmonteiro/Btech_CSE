@@ -1,4 +1,5 @@
 //quadratic equation
+//formula b^2-4ac
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
